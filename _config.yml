@@ -1,0 +1,14 @@
+layout_spectrum: 0.01184622966684401
+typography_spectrum: 0.506321320310235
+color:
+  brandStrength: 0.9012676239944994
+  lightness: 0.8638710819650441
+  saturation: 0.6632900901604444
+  rhythmicContrast: 0.25362417194992304
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: Medialogy
